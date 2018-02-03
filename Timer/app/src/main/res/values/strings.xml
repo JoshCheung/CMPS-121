@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Timer</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="Zero" translatable="false">0</string>
+    <string name="plus" translatable="false">+</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="stop" translatable="false">Stop</string>
+    <string name="display" translatable="false">time</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string name="refresh_msg">Refresh</string>
+    <string name="title_activity_news_site">NewsSite</string>
+</resources>
